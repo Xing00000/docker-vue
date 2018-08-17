@@ -3,7 +3,7 @@ import App from './App'
 import router from './router'
 import store from './store'
 
-Vue.use(router)
+/*Vue.use(router)*/
 
 
 
